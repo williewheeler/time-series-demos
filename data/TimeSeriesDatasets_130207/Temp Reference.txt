@@ -1,0 +1,108 @@
+City temperatures for various countries (NZ, Australia & USA), continent (Asia) and selections of cities from the world (2 files):
+Files, references and data descriptions.
+
+ALL Temperature DATA [except Japan (TOKYO) & New Zealand]
+SOURCE: http://www.tutiempo.net/en/Climate/
+
+JAPAN (TOKYO)
+SOURCE: 	http://www.data.jma.go.jp/obd/stats/data/en/smp/index.html
+
+NEW ZEALAND
+SOURCE: 	http://www.niwa.co.nz/
+LOGIN:		http://cliflo.niwa.co.nz/
+
+VARIABLES (All files):
+CityNameMax: 	Average daily maximum temperature for each month (°C)
+CitynameMin:	Average daily minimum temperature for each month (°C)
+
+TIME FRAME (All files):	Monthly averages from January 2000 to October 2012
+
+FILE: TempAsia.csv	
+VARIABLES:
+TokyoMax	
+TokyoMin	
+BangkokMax	
+BangkokMin	
+HongKongMax	
+HongKongMin	
+NewDelhiMax	
+NewDelhiMin	
+KualaLumpurMax	
+KualaLumpurMin
+
+FILE: TempAustralia.csv
+VARIABLES:
+BrisbaneMax	
+BrisbaneMin	
+SydneyMax	
+SydneyMin	
+GoldCoastMax	
+GoldCoastMin	
+Melbournemax	
+MelbourneMin	
+Canberramax	
+CanberraMin
+
+FILE: TempNZ.csv
+VARIABLES:
+AucklandMax	
+AucklandMin	
+ChristchurchMax	
+ChristchurchMin	
+DunedinMax	
+DunedinMin	
+HamiltonMax	
+HamiltonMin	
+WellingtonMax	
+WellingtonMin
+
+FILE: TempUSA.csv
+VARIABLES:
+LosAngelesMax	
+LosAngelesMin	
+NYMax	
+NYMin	
+HoustonMax	
+HoustonMin	
+ChicagoMax	
+ChicagoMin	
+SeattleMax	
+SeattleMin
+
+FILE: WorldTemp1.csv
+VARIABLES:
+CapeTownMax	
+CapeTownMin	
+BuenosAriesMax	
+BuenosAriesMin	
+ParisMax	
+ParisMin	
+MadridMax	
+MadridMin	
+TokyoMax	
+TokyoMin	
+BrisbaneMax	
+BrisbaneMin	
+AucklandMax	
+AucklandMin	
+LosAngelesMax	
+LosAngelesMin
+
+FILE: WorldTemp2.csv
+VARIABLES:
+NairobiMax	
+NairobiMin	
+BogotaMax	
+BogotaMin	
+OsloMax	
+OsloMin	
+VienaMax	
+VienaMin	
+HongKongMax	
+HongKongMin	
+Melbournemax	
+MelbourneMin	
+ChristchurchMax	
+ChristchurchMin	
+ChicagoMax	
+ChicagoMin

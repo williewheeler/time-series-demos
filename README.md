@@ -8,3 +8,31 @@ Some of the demos have corresponding blog posts:
 - hampel: https://medium.com/wwblog/clean-up-your-time-series-data-with-a-hampel-filter-58b0bb3ebb04
 - imputation-experiments: https://medium.com/wwblog/clean-up-your-time-series-data-with-a-hampel-filter-58b0bb3ebb04
 - removing-outliers-from-time-series: https://medium.com/wwblog/clean-up-your-time-series-data-with-a-hampel-filter-58b0bb3ebb04
+
+# Setup
+
+Install `pipenv` using
+
+```
+$ brew install pipenv
+```
+
+# Running
+
+Enter the `pipenv` shell:
+
+```
+$ pipenv shell
+```
+
+Install the dependencies:
+
+```
+$ pipenv install
+```
+
+Then start Juypter:
+
+```
+$ jupyter notebook
+```
