@@ -31,8 +31,8 @@ Install the dependencies:
 $ pipenv install
 ```
 
-Then start Juypter:
+Then start JuypterLab:
 
 ```
-$ jupyter notebook
+$ jupyter lab
 ```

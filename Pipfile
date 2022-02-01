@@ -6,13 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-jupyter = "*"
 ipython = ">=8.0.1"
 matplotlib = "*"
 numpy = "*"
 pandas = "*"
 seaborn = "*"
 statsmodels = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.9"
