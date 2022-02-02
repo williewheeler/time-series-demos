@@ -13,6 +13,7 @@ pandas = "*"
 seaborn = "*"
 statsmodels = "*"
 jupyterlab = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.9"
