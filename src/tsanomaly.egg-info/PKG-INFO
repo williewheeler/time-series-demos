@@ -1,7 +1,20 @@
+Metadata-Version: 2.1
+Name: tsanomaly
+Version: 0.0.1
+Summary: Time series anomaly detection
+Author: Willie Wheeler
+License: MIT
+Project-URL: GitHub, https://github.com/williewheeler/tsanomaly
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+
 # time-series-demos
 
-Jupyter notebooks containing various time series analysis demos. Some of the demos are in Python and some are in R.
-I probably should have separated them out or just picked a language but I didn't. :)
+Jupyter notebooks containing various time series analysis demos.
 
 Some of the demos have corresponding blog posts:
 

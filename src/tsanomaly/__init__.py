@@ -1,0 +1,3 @@
+from tsanomaly import (
+    plot
+)
