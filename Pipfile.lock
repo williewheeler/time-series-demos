@@ -1194,11 +1194,12 @@
         },
         "pygments": {
             "hashes": [
-                "sha256:b3ed06a9e8ac9a9aae5a6f5dbe78a8a58655d17b43b93c078f094ddc476ae297",
-                "sha256:fa7bd7bd2771287c0de303af8bfdfc731f51bd2c6a47ab69d117138893b82717"
+                "sha256:636cb2477cec7f8952536970bc533bc43743542f70392ae026374600add5b887",
+                "sha256:86540386c03d588bb81d44bc3928634ff26449851e99741617ecb9037ee5ec0b"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2.14.0"
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==2.19.2"
         },
         "pyparsing": {
             "hashes": [
